@@ -10,7 +10,7 @@ I build open-source **tools, scripts, and web projects** that focus on clean cod
 - 💡 Passionate about building efficient and scalable software solutions  
 - 🧰 Skilled in: **Python**, **JavaScript**, **HTML/CSS**, **Git**, **Docker**, and **Linux tools**  
 - 🌐 Interested in: **Web development**, **Automation**, and **Open Source**  
-- 📫 Reach me: [Instagram}(https://www.instagram.com/ad1xmohd/) | [Email](mailto:adilpachambala7@gmail.com)
+- 📫 Reach me: [Instagram](https://www.instagram.com/ad1xmohd/) | [Email](mailto:adilpachambala7@gmail.com)
 
 ---
 
